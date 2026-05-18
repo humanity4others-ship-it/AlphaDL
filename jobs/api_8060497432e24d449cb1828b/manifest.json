@@ -1,0 +1,67 @@
+{
+  "job_id": "api_8060497432e24d449cb1828b",
+  "mode": "zip_split",
+  "file_url": "https://free-dl11.myalphadl.com/BGuL2Mrv5onV_IbooAag5w/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 953981090,
+  "created_at_utc": "2026-05-18T12:42:42.572618+00:00",
+  "zip_folder": "jobs/api_8060497432e24d449cb1828b/zip",
+  "zip_main_file": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z07",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z08",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z08",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z09",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z09",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z10",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z10",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_8060497432e24d449cb1828b/zip/From.S04E05.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 10262954
+    }
+  ]
+}
